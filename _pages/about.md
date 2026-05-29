@@ -43,36 +43,15 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
   <!-- 右侧文字区域 -->
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      <strong>Degradation-Aware Diffusion Models for Real-World Telephoto Image Enhancement</strong>
+      <strong>Knowledge distillation with multi-granularity mixture of priors for image super-resolution</strong>
     </h3>
     <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Xiao He, <strong>Wei Li</strong><sup>&dagger;</sup>, Shaohui Lin, Nannan Wang
+      Simiao Li, Yun Zhang, <strong>Wei Li</strong><sup>&dagger;</sup>, Hanting Chen, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <sup>&dagger;</sup><em>Project Leader, CVPR 2026</em> &nbsp;
+      <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025 (Spotlight)</em> &nbsp;
       <a href="你的论文链接" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
     </p>
   </div>
 </div>
 
-<!-- 第二篇论文示例：LLM 知识蒸馏方向 -->
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <!-- 左侧图片区域 -->
-  <div style="flex: 0 0 32%; margin-right: 20px;">
-    <img src="/images/paper2_llm.png" alt="LLM Distillation Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  </div>
-  <!-- 右侧文字区域 -->
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      <strong>Progressive Knowledge Distillation Framework for Large Language Models</strong>
-    </h3>
-    <p style="margin: 0; font-size: 1.05em; color: #444;">
-      <strong>Wei Li</strong>, Jian Li, Yuanyuan Xi, Siqi Liu
-    </p>
-    <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <em>ICML 2026</em> &nbsp;
-      <a href="你的论文链接" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
-      <a href="你的代码链接" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Code]</a>
-    </p>
-  </div>
-</div>
