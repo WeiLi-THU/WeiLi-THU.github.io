@@ -154,7 +154,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
       Xiaoyu Liu1, Yun Zhang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Xudong Huang, Hanting Chen, Yehui Tang, Jie Hu, Zhiwei Xiong, and Yunhe Wang
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <sup>&dagger;</sup><em>Project Leader, Arxiv 2025</em> &nbsp;
+      <sup>&dagger;</sup><em>Project Leader, ACL 2026</em> &nbsp;
       <a href="https://arxiv.org/pdf/2407.10068" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
     </p>
   </div>
@@ -175,7 +175,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
       Xin Ding, Xiaoyu Liu, Zhijun Tu, Yun Zhang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Jie Hu, Hanting Chen, Yehui Tang, Zhiwei Xiong, BaoqunYin, YunheWang
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <sup>&dagger;</sup><em>Project Leader, Arxiv 2025</em> &nbsp;
+      <sup>&dagger;</sup><em>ICLR 2025 (Spotlight) </em> &nbsp;
       <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/15212bd2265c4a3ab0dbc1b1982c1b69-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
     </p>
   </div>
