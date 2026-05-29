@@ -23,7 +23,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 **[2025.11]** One paper accepted by **IEEE TIP** ([Hi-Mamba](https://arxiv.org/pdf/2410.10140?)).   
 **[2025.05]** One paper accepted by **IEEE TIP**. ([LIPT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11008483)).    
 **[2025.01]** One paper accepted by **CVPR2025**.      
-**[2025.01]** Three papers accepted by **ICLR2025**, including ***2 Spotlight([CBQ] (https://proceedings.iclr.cc/paper_files/paper/2025/file/15212bd2265c4a3ab0dbc1b1982c1b69-Paper-Conference.pdf), [MipKD](https://proceedings.iclr.cc/paper_files/paper/2025/file/dcdaccb57420cb344b73da90f2281f11-Paper-Conference.pdf))***！      
+**[2025.01]** Three papers accepted by **ICLR2025**, including ***2 Spotlight([CBQ](https://proceedings.iclr.cc/paper_files/paper/2025/file/15212bd2265c4a3ab0dbc1b1982c1b69-Paper-Conference.pdf), [MipKD](https://proceedings.iclr.cc/paper_files/paper/2025/file/dcdaccb57420cb344b73da90f2281f11-Paper-Conference.pdf))***！      
 **[2024.11]** Two papers accepted by **AAAI2025** ([GIM](https://arxiv.org/pdf/2406.16531), [DCKD](https://arxiv.org/pdf/2412.08939v1)).     
 **[2024.07]** One paper accepted by **ECCV2024** ([PQ-SAM](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01627.pdf))        
 **[2024.02]** One paper accepted by **CVPR2024** ([SAM4IR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Distilling_Semantic_Priors_from_SAM_to_Efficient_Image_Restoration_Models_CVPR_2024_paper.pdf))       
