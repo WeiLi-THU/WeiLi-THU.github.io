@@ -42,7 +42,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
   </div>
   <!-- 右侧文字区域 -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
       <strong>Knowledge distillation with multi-granularity mixture of priors for image super-resolution</strong>
     </h3>
     <p style="margin: 0; font-size: 1.05em; color: #444;">
