@@ -75,3 +75,24 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
   </div>
 </div>
 
+
+<hr>
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
+  <!-- 左侧图片区域 (占约30%宽度) -->
+  <div style="flex: 0 0 32%; margin-right: 20px;">
+    <img src="/images/augkd.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+  <!-- 右侧文字区域 -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
+      AugKD: Ingenious Augmentations Empower Knowledge Distillation for Image Super-Resolution
+    </h3>
+    <p style="margin: 0; font-size: 1.05em; color: #444;">
+      Yun Zhang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Simiao Li, Hanting Chen, Zhijun Tu, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
+    </p>
+    <p style="margin: 8px 0 0 0; font-size: 1.05em;">
+      <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025</em> &nbsp;
+      <a href="https://openreview.net/pdf?id=AC3713Fmhx" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+    </p>
+  </div>
+</div>
