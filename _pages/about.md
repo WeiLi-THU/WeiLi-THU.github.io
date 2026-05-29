@@ -46,7 +46,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
       Knowledge distillation with multi-granularity mixture of priors for image super-resolution
     </h3>
     <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Simiao Li, Yun Zhang, <strong>Wei Li</strong><sup>&dagger;</sup>, Hanting Chen, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
+      Simiao Li, Yun Zhang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Hanting Chen, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025 (Spotlight)</em> &nbsp;
