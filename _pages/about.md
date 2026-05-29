@@ -11,8 +11,12 @@ I am Wei Li, a principal research scientist at Huawei Foundation Model Departmen
 
 I received my M.S. degree from Tsinghua University in 2019, co-advised by Prof. Guoqiang Bai and IEEE Fellow [Prof. Zhihua Wang](https://www.ime.tsinghua.edu.cn/info/1010/1746.htm). Since joining Huawei in 2019, I have collaborated closely with [Dr.Xinghao Chen](https://scholar.google.com/citations?user=tuGWUVIAAAAJ&hl=en) and [Dr.Yunhe Wang](https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en) 
 
-Driven by a passion for bridging cutting-edge algorithms with strict hardware constraints, I have pioneered multiple core technologies that empower intelligent imaging and generative models across tens of millions of flagship devices globally. I have published over 20 papers in top-tier AI venues (including multiple ICLR Spotlight, CVPR, ICML, ACL, and IEEE TIP articles) and hold more than 30 patents. If you are passionate about defining the future of ubiquitous generative AI and publishing at top-tier venues, please feel free to drop me an email with your CV.
+Driven by a passion for bridging cutting-edge algorithms with strict hardware constraints, I have pioneered multiple core technologies that empower intelligent imaging and generative models across tens of millions of flagship devices globally. I have published over 20 papers in top-tier AI venues (including multiple ICLR Spotlight, CVPR, ICML, ACL, and IEEE TIP articles) and hold more than 30 patents. 
 
-:rocket: News
-======
-Like 
+> ### 🤝 Join Our Team / Hiring Interns
+> We are actively seeking self-motivated interns to work on next-generation multimodal generation systems. If you are passionate about defining the future of ubiquitous generative AI and publishing at top-tier venues, please feel free to drop me an email with your CV.
+
+<h1>🚀 News</h1>
+================
+[2026.5] 3 papers accepted by ICML 2026!
+[2026.1]
