@@ -29,3 +29,50 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 **[2024.02]** One paper accepted by **CVPR2024** ([SAM4IR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Distilling_Semantic_Priors_from_SAM_to_Efficient_Image_Restoration_Models_CVPR_2024_paper.pdf))       
 **[2023.09]** One paper accepted by **NeurIPS2024** ([Genimage](https://proceedings.neurips.cc/paper_files/paper/2023/file/f4d4a021f9051a6c18183b059117e8b5-Paper-Datasets_and_Benchmarks.pdf))     
 **[2023.02]** One paper accepted by **CVPR2023** ([RefSR-NeRF](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf))     
+
+
+## Selected Publications
+<hr>
+
+<!-- 第一篇论文示例：长焦 AIGC 方向 -->
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
+  <!-- 左侧图片区域 (占约30%宽度) -->
+  <div style="flex: 0 0 32%; margin-right: 20px;">
+    <img src="/images/mipkd.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+  <!-- 右侧文字区域 -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
+      <strong>Degradation-Aware Diffusion Models for Real-World Telephoto Image Enhancement</strong>
+    </h3>
+    <p style="margin: 0; font-size: 1.05em; color: #444;">
+      Xiao He, <strong>Wei Li</strong><sup>&dagger;</sup>, Shaohui Lin, Nannan Wang
+    </p>
+    <p style="margin: 8px 0 0 0; font-size: 1.05em;">
+      <sup>&dagger;</sup><em>Project Leader, CVPR 2026</em> &nbsp;
+      <a href="你的论文链接" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+    </p>
+  </div>
+</div>
+
+<!-- 第二篇论文示例：LLM 知识蒸馏方向 -->
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
+  <!-- 左侧图片区域 -->
+  <div style="flex: 0 0 32%; margin-right: 20px;">
+    <img src="/images/paper2_llm.png" alt="LLM Distillation Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+  <!-- 右侧文字区域 -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
+      <strong>Progressive Knowledge Distillation Framework for Large Language Models</strong>
+    </h3>
+    <p style="margin: 0; font-size: 1.05em; color: #444;">
+      <strong>Wei Li</strong>, Jian Li, Yuanyuan Xi, Siqi Liu
+    </p>
+    <p style="margin: 8px 0 0 0; font-size: 1.05em;">
+      <em>ICML 2026</em> &nbsp;
+      <a href="你的论文链接" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <a href="你的代码链接" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Code]</a>
+    </p>
+  </div>
+</div>
