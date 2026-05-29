@@ -111,7 +111,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
       Xudong Huang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Jie Hu, Hanting Chen, Yunhe Wang
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025</em> &nbsp;
+      <sup>&dagger;</sup><em>Project Leader & Co-first author, CVPR 2023</em> &nbsp;
       <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
     </p>
   </div>
