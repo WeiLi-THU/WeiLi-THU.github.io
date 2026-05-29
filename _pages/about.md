@@ -18,6 +18,9 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 
 <h1>🚀 News</h1>
 ===========  
-**[2026.05]** Three papers accepted by **ICML2026**！  
-**[2026.04]** One paper accepted by **ACL2026**！   
-**[2025.01]** Three papers accepted by **ICLR2025**, including 2 Spotlight(CBQ, MipKD)！
+**[2026.05]** Three papers accepted by **ICML2026**.  
+**[2026.04]** One paper accepted by **ACL2026**.     
+**[2025.11]** One paper accepted by **IEEE TIP** (Hi-Mamba).   
+**[2025.05]** One paper accepted by **IEEE TIP**. ([LIPT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11008483)).    
+**[2025.01]** Three papers accepted by **ICLR2025**, including ***2 Spotlight(CBQ, MipKD)***！ 
+**[2024.11]** Two papers accepted by **AAAI2025**. 
