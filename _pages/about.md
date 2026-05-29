@@ -17,6 +17,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 > We are actively seeking self-motivated interns to work on next-generation multimodal generation systems. If you are passionate about defining the future of ubiquitous generative AI and publishing at top-tier venues, please feel free to drop me an email with your CV.
 
 <h1>🚀 News</h1>
-=============  
-[2026.5] 3 papers accepted by ICML2026  
-[2026.4] 1 paper accepted by ACL2026  
+===========  
+**[2026.05]** Three papers accepted by **ICML2026**！  
+**[2026.04]** One paper accepted by **ACL2026**！
+**[2025.01]** Three papers accepted by **ICLR2025**, including 2 Spotlight(CBQ, MipKD)！
