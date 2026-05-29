@@ -33,7 +33,6 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 
 ## Selected Publications
 <hr>
-
 <!-- 第一篇论文示例：长焦 AIGC 方向 -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
   <!-- 左侧图片区域 (占约30%宽度) -->
@@ -51,6 +50,27 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025 (Spotlight)</em> &nbsp;
       <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/dcdaccb57420cb344b73da90f2281f11-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+    </p>
+  </div>
+</div>
+
+<hr>
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
+  <!-- 左侧图片区域 (占约30%宽度) -->
+  <div style="flex: 0 0 32%; margin-right: 20px;">
+    <img src="/images/lipt.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+  <!-- 右侧文字区域 -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
+      LIPT: Latency-Aware Image Processing Transformer
+    </h3>
+    <p style="margin: 0; font-size: 1.05em; color: #444;">
+      Junbo Qiao, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Haizhen Xie, Hanting Chen, Jie Hu, Shaohui Lin, Jungong Han
+    </p>
+    <p style="margin: 8px 0 0 0; font-size: 1.05em;">
+      <sup>&dagger;</sup><em>Project Leader & Co-first author, IEEE TIP 2025</em> &nbsp;
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11008483" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
     </p>
   </div>
 </div>
