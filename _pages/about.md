@@ -50,7 +50,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025 (Spotlight)</em> &nbsp;
-      <a href="你的论文链接" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/dcdaccb57420cb344b73da90f2281f11-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
     </p>
   </div>
 </div>
