@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am Wei Li, a principal research scientist at Huawei Foundation Model Department. Currently, I am leading a team of Edge AIGC Post-Training. My research interests lie in efficient architectures and reinforcement learning for Vision-Language Models (VLMs) and generative AIGC.  I received my M.S. degree from Tsinghua University in 2019, advised by Prof. Guoqiang Bai and IEEE Fellow Prof. [Zhihua Wang](https://www.ime.tsinghua.edu.cn/info/1010/1746.htm). I joined Huawei in 2019 and closely worked with [Dr.Xinghao Chen](https://scholar.google.com/citations?user=tuGWUVIAAAAJ&hl=en) and [Dr.Yunhe Wang](https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en)
+
+Currently, my primary focus is to address the critical bottlenecks of running next-generation generative AI—such as Diffusion, autoregressive flow models, and LLMs—under extreme on-device memory and compute constraints. Our developed frameworks (e.g., CBQ, MiPKD, LIPT) have empowered the intelligent experiences of over 20 million flagship devices worldwide.  To push the boundaries of on-device intelligence and multi-modal alignment (such as VLM-as-Judge and Step-level PRM), our team is actively seeking self-motivated Research Interns. If you are passionate about defining the future of ubiquitous generative AI and publishing at top-tier venues, please feel free to drop me an email with your CV.  
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
