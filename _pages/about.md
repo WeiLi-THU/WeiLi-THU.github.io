@@ -28,7 +28,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 **[2024.07]** One paper accepted by **ECCV 2024** ([PQ-SAM](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01627.pdf)).        
 **[2024.02]** One paper accepted by **CVPR 2024** ([SAM4IR](https://openaccess.thecvf.com/content/CVPR 2024/papers/Zhang_Distilling_Semantic_Priors_from_SAM_to_Efficient_Image_Restoration_Models_CVPR_2024_paper.pdf)).       
 **[2023.09]** One paper accepted by **NeurIPS 2024** ([Genimage](https://proceedings.neurips.cc/paper_files/paper/2023/file/f4d4a021f9051a6c18183b059117e8b5-Paper-Datasets_and_Benchmarks.pdf)).     
-**[2023.04]** Won the Winner Award in NTIRE Challenge on Image Denoising@**CVPR2023**.
+**[2023.04]** Won the Winner Award in NTIRE Challenge on Image Denoising@**CVPR2023**.              
 **[2023.02]** One paper accepted by **CVPR 2023** ([RefSR-NeRF](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf)).     
 **[2021.11]** One paper accepted by **AAAI 2022** ([OoDHDR-codec](https://github.com/caolinfeng/OoDHDR-codec/blob/master/Readme.md)).     
 
