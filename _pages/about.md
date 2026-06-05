@@ -34,24 +34,34 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 
 ## Selected Publications
 <hr>
-<!-- 第一篇论文示例：长焦 AIGC 方向 -->
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <!-- 左侧图片区域 (占约30%宽度) -->
   <div style="flex: 0 0 32%; margin-right: 20px;">
-    <img src="/images/mipkd.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/mipkd.png" alt="MiPKD Teaser for Image Super-Resolution" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
-  <!-- 右侧文字区域 -->
+  
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      Knowledge distillation with multi-granularity mixture of priors for image super-resolution
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>Knowledge distillation with multi-granularity mixture of priors for image super-resolution</strong>
     </h3>
-    <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Simiao Li, Yun Zhang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Hanting Chen, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
+    
+    <p style="margin: 0; font-size: 1.05em;">
+      Simiao Li, Yun Zhang, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Hanting Chen, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
     </p>
+    
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025 (Spotlight)</em> &nbsp;
-      <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/dcdaccb57420cb344b73da90f2281f11-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      
+      <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/dcdaccb57420cb344b73da90f2281f11-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      
+      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-mipkd'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
+
+    <div id="bib-mipkd" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@inproceedings{li2025knowledge,
+  title={Knowledge distillation with multi-granularity mixture of priors for image super-resolution},
+  author={Li, Simiao and Zhang, Yun and Li, Wei and Chen, Hanting and Wang, Wenjia and Jing, Bingyi and Lin, Shaohui and Hu, Jie},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
+}</div>
   </div>
 </div>
 
