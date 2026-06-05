@@ -67,135 +67,159 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <!-- 左侧图片区域 (占约30%宽度) -->
   <div style="flex: 0 0 32%; margin-right: 20px;">
-    <img src="/images/lipt.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/lipt.png" alt="LIPT Teaser" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
-  <!-- 右侧文字区域 -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      LIPT: Latency-Aware Image Processing Transformer
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>LIPT: Latency-Aware Image Processing Transformer</strong>
     </h3>
-    <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Junbo Qiao, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Haizhen Xie, Hanting Chen, Jie Hu, Shaohui Lin, Jungong Han
+    <p style="margin: 0; font-size: 1.05em;">
+      Junbo Qiao, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Haizhen Xie, Hanting Chen, Jie Hu, Shaohui Lin, Jungong Han
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader & Co-first author, IEEE TIP 2025</em> &nbsp;
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11008483" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11008483" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
       <a href="https://github.com/Junboooo/LIPT" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Code]</a> &nbsp;
+      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-lipt'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
+    <div id="bib-lipt" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@article{qiao2025lipt,
+  title={LIPT: Latency-Aware Image Processing Transformer},
+  author={Qiao, Junbo and Li, Wei and Xie, Haizhen and Chen, Hanting and Hu, Jie and Lin, Shaohui and Han, Jungong},
+  journal={IEEE Transactions on Image Processing},
+  year={2025}
+}</div>
   </div>
 </div>
 
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <!-- 左侧图片区域 (占约30%宽度) -->
   <div style="flex: 0 0 32%; margin-right: 20px;">
-    <img src="/images/augkd.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/augkd.png" alt="AugKD Teaser" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
-  <!-- 右侧文字区域 -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      AugKD: Ingenious Augmentations Empower Knowledge Distillation for Image Super-Resolution
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>AugKD: Ingenious Augmentations Empower Knowledge Distillation for Image Super-Resolution</strong>
     </h3>
-    <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Yun Zhang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Simiao Li, Hanting Chen, Zhijun Tu, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
+    <p style="margin: 0; font-size: 1.05em;">
+      Yun Zhang, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Simiao Li, Hanting Chen, Zhijun Tu, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025</em> &nbsp;
-      <a href="https://openreview.net/pdf?id=AC3713Fmhx" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <a href="https://openreview.net/pdf?id=AC3713Fmhx" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-augkd'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
+    <div id="bib-augkd" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@inproceedings{zhang2025augkd,
+  title={AugKD: Ingenious Augmentations Empower Knowledge Distillation for Image Super-Resolution},
+  author={Zhang, Yun and Li, Wei and Li, Simiao and Chen, Hanting and Tu, Zhijun and Wang, Wenjia and Jing, Bingyi and Lin, Shaohui and Hu, Jie},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
+}</div>
   </div>
 </div>
 
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <!-- 左侧图片区域 (占约30%宽度) -->
   <div style="flex: 0 0 32%; margin-right: 20px;">
-    <img src="/images/refsr-nerf.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/refsr-nerf.png" alt="RefSR-NeRF Teaser" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
-  <!-- 右侧文字区域 -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      RefSR-NeRF: Towards High Fidelity and Super Resolution View Synthesis
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>RefSR-NeRF: Towards High Fidelity and Super Resolution View Synthesis</strong>
     </h3>
-    <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Xudong Huang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Jie Hu, Hanting Chen, Yunhe Wang
+    <p style="margin: 0; font-size: 1.05em;">
+      Xudong Huang, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Jie Hu, Hanting Chen, Yunhe Wang
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader & Co-first author, CVPR 2023</em> &nbsp;
-      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-refsr'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
+    <div id="bib-refsr" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@inproceedings{huang2023refsr,
+  title={RefSR-NeRF: Towards High Fidelity and Super Resolution View Synthesis},
+  author={Huang, Xudong and Li, Wei and Hu, Jie and Chen, Hanting and Wang, Yunhe},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
+}</div>
   </div>
 </div>
 
-
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <!-- 左侧图片区域 (占约30%宽度) -->
   <div style="flex: 0 0 32%; margin-right: 20px;">
-    <img src="/images/rddm.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/rddm.png" alt="RDDM Teaser" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
-  <!-- 右侧文字区域 -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      RDDM: PRACTICING RAW DOMAIN DIFFUSION MODEL FOR REAL-WORLD IMAGE RESTORATION
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>RDDM: Practicing Raw Domain Diffusion Model for Real-World Image Restoration</strong>
     </h3>
-    <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Yan Chen, Yi Wen, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Junchao Liu, Yong Guo, Jie Hu, Xinghao Chen
+    <p style="margin: 0; font-size: 1.05em;">
+      Yan Chen, Yi Wen, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Junchao Liu, Yong Guo, Jie Hu, Xinghao Chen
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader, Arxiv 2025</em> &nbsp;
-      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-rddm'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
+    <div id="bib-rddm" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@article{chen2025rddm,
+  title={RDDM: Practicing Raw Domain Diffusion Model for Real-World Image Restoration},
+  author={Chen, Yan and Wen, Yi and Li, Wei and Liu, Junchao and Guo, Yong and Hu, Jie and Chen, Xinghao},
+  journal={arXiv preprint},
+  year={2025}
+}</div>
   </div>
 </div>
 
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <!-- 左侧图片区域 (占约30%宽度) -->
   <div style="flex: 0 0 32%; margin-right: 20px;">
-    <!-- <img src="/images/dac-kl.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);"> -->
-    <!-- 左侧动态 Demo 区域 (取代原来的 img 标签) -->
-  <div style="flex: 0 0 32%; margin-right: 20px;">
-    <!-- autoplay(自动播放), loop(循环), muted(静音) 是让视频像 GIF 一样无缝播放的关键 -->
-    <video width="100%" controls autoplay loop muted playsinline style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <video width="100%" controls autoplay loop muted playsinline style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
       <source src="/images/ACL 2026_main-374.mp4" type="video/mp4">
     </video>
   </div>
-  </div>
-  <!-- 右侧文字区域 -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      Multi-Granularity Semantic Revision for Large Language Model Distillation
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>Multi-Granularity Semantic Revision for Large Language Model Distillation</strong>
     </h3>
-    <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Xiaoyu Liu1, Yun Zhang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Xudong Huang, Hanting Chen, Yehui Tang, Jie Hu, Zhiwei Xiong, and Yunhe Wang
+    <p style="margin: 0; font-size: 1.05em;">
+      Xiaoyu Liu, Yun Zhang, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Xudong Huang, Hanting Chen, Yehui Tang, Jie Hu, Zhiwei Xiong, Yunhe Wang
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader, ACL 2026</em> &nbsp;
-      <a href="https://arxiv.org/pdf/2407.10068" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <a href="https://arxiv.org/pdf/2407.10068" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-acl2026'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
+    <div id="bib-acl2026" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@inproceedings{liu2026multi,
+  title={Multi-Granularity Semantic Revision for Large Language Model Distillation},
+  author={Liu, Xiaoyu and Zhang, Yun and Li, Wei and Huang, Xudong and Chen, Hanting and Tang, Yehui and Hu, Jie and Xiong, Zhiwei and Wang, Yunhe},
+  booktitle={Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)},
+  year={2026}
+}</div>
   </div>
 </div>
 
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <!-- 左侧图片区域 (占约30%宽度) -->
   <div style="flex: 0 0 32%; margin-right: 20px;">
-    <img src="/images/cbq.png" alt="Telephoto AIGC Teaser" style="border: 1px solid #ddd; border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="/images/cbq.png" alt="CBQ Teaser" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
-  <!-- 右侧文字区域 -->
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.25em; line-height: 1.3;">
-      CBQ: CROSS-BLOCK QUANTIZATION FOR LARGE LANGUAGE MODELS
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>CBQ: Cross-Block Quantization for Large Language Models</strong>
     </h3>
-    <p style="margin: 0; font-size: 1.05em; color: #444;">
-      Xin Ding, Xiaoyu Liu, Zhijun Tu, Yun Zhang, <span style="font-weight: 600;">Wei Li</span><sup>&dagger;</sup>, Jie Hu, Hanting Chen, Yehui Tang, Zhiwei Xiong, BaoqunYin, YunheWang
+    <p style="margin: 0; font-size: 1.05em;">
+      Xin Ding, Xiaoyu Liu, Zhijun Tu, Yun Zhang, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Jie Hu, Hanting Chen, Yehui Tang, Zhiwei Xiong, Baoqun Yin, Yunhe Wang
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <sup>&dagger;</sup><em>ICLR 2025 (Spotlight) </em> &nbsp;
-      <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/15212bd2265c4a3ab0dbc1b1982c1b69-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <sup>&dagger;</sup><em>ICLR 2025 (Spotlight)</em> &nbsp;
+      <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/15212bd2265c4a3ab0dbc1b1982c1b69-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-cbq'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
+    <div id="bib-cbq" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@inproceedings{ding2025cbq,
+  title={CBQ: Cross-Block Quantization for Large Language Models},
+  author={Ding, Xin and Liu, Xiaoyu and Tu, Zhijun and Zhang, Yun and Li, Wei and Hu, Jie and Chen, Hanting and Tang, Yehui and Xiong, Zhiwei and Yin, Baoqun and Wang, Yunhe},
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
+}</div>
   </div>
 </div>
