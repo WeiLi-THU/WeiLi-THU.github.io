@@ -72,6 +72,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader & Co-first author, IEEE TIP 2025</em> &nbsp;
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11008483" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a>
+      <a href="https://github.com/Junboooo/LIPT" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Code]</a> &nbsp;
     </p>
   </div>
 </div>
