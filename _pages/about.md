@@ -148,9 +148,8 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
     <!-- 左侧动态 Demo 区域 (取代原来的 img 标签) -->
   <div style="flex: 0 0 32%; margin-right: 20px;">
     <!-- autoplay(自动播放), loop(循环), muted(静音) 是让视频像 GIF 一样无缝播放的关键 -->
-    <video width="100%" autoplay loop muted playsinline style="controls: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <video width="100%" controls autoplay loop muted playsinline style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
       <source src="/images/ACL 2026_main-374.mp4" type="video/mp4">
-      Your browser does not support the video tag.
     </video>
   </div>
   </div>
