@@ -1,4 +1,4 @@
----
+<img width="579" height="356" alt="image" src="https://github.com/user-attachments/assets/21ec6c3f-4f35-4e9c-bcce-11b797adbc1d" />---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -18,6 +18,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 
 <h1>🚀 News</h1>
 ===========                    
+**[2026.06]** One paper accepted by **ECCV 2026** ([AlloSR](https://arxiv.org/pdf/2604.19238)).  
 **[2026.06]** Honored to serve as a **Virtual Session Chair** for the [LLM Efficiency] track at ACL 2026.                                   
 **[2026.05]** Three papers accepted by **ICML 2026** (ES-COT, CSD, [Extra-CoT](https://arxiv.org/pdf/2602.08324)).  
 **[2026.04]** One paper accepted by **ACL 2026** ([Dac-KL](https://arxiv.org/pdf/2407.10068)).     
