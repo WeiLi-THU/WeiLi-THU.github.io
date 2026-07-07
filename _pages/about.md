@@ -9,7 +9,7 @@ redirect_from:
 
 I am Wei Li, a principal research scientist at Huawei Foundation Model Department. Currently, I am leading the Multimodal Generation Post-Training team. My research interests broadly encompass efficient systems for large language models and multimodal generation, and reinforcement learning for multimodal generation.  
 
-I received my M.S. degree from Tsinghua University in 2019, co-advised by Prof. Guoqiang Bai and IEEE Fellow [Prof. Zhihua Wang](https://www.ime.tsinghua.edu.cn/info/1010/1746.htm). Since joining Huawei in 2019, I have collaborated closely with [Dr.Xinghao Chen](https://scholar.google.com/citations?user=tuGWUVIAAAAJ&hl=en) and [Dr.Yunhe Wang](https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en) 
+I received my M.S. degree from Tsinghua University in 2019, co-advised by Prof. Guoqiang Bai and IEEE Fellow [Prof. Zhihua Wang](https://www.ime.tsinghua.edu.cn/info/1010/1746.htm). Since joining Huawei in 2019, I have collaborated closely with [Mr. Jie Hu](https://scholar.google.com/citations?user=o-3D3K4AAAAJ&hl=en), [Dr.Hanting Chen]([https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en)) and [Dr.Yunhe Wang](https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en) 
 
 Driven by a passion for bridging cutting-edge algorithms with strict hardware constraints, I have pioneered multiple core technologies that empower intelligent imaging and generative models across tens of millions of flagship devices globally. I have published over 20 papers in top-tier AI venues (including multiple ICLR Spotlight, CVPR, ICML, ACL, and IEEE TIP articles) and hold more than 30 patents. 
 
