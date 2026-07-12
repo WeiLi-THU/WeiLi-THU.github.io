@@ -18,6 +18,7 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
 
 <h1>🚀 News</h1>
 ===========                    
+**[2026.07]** Two paper accepted by **ACMMM 2026** ([DSPO](https://arxiv.org/pdf/2504.15176), [RadAR](https://arxiv.org/pdf/2512.24639)).  
 **[2026.06]** One paper accepted by **ECCV 2026** ([AlloSR](https://arxiv.org/pdf/2604.19238)).  
 **[2026.06]** Honored to serve as a **Virtual Session Chair** for the [LLM Efficiency] track at ACL 2026.                                   
 **[2026.05]** Three papers accepted by **ICML 2026** (ES-COT, CSD, [Extra-CoT](https://arxiv.org/pdf/2602.08324)).  
