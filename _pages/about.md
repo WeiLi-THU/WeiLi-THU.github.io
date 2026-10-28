@@ -7,14 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am Wei Li, a principal research scientist at Huawei Foundation Model Department. Currently, I am leading the Multimodal Generation Post-Training team. My research interests broadly encompass LLM efficiency and multimodal generation, and reinforcement learning.  
+I am **Wei Li**, a Principal Research Scientist at the **Huawei Foundation Model Department**, where I lead the **Multimodal Generation Post-Training Team**. My research focuses on **multimodal generation, reinforcement learning, and efficient foundation models**, with a particular interest in bridging cutting-edge AI research and real-world applications.
 
-I received my M.S. degree from Tsinghua University in 2019, co-advised by Prof. Guoqiang Bai and IEEE Fellow [Prof. Zhihua Wang](https://www.ime.tsinghua.edu.cn/info/1010/1746.htm). Since joining Huawei in 2019, I have collaborated closely with [Mr.Jie Hu](https://scholar.google.com/citations?user=o-3D3K4AAAAJ&hl=en), [Dr.Hanting Chen](https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en) and [Dr.Yunhe Wang](https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en) 
+I received my M.S. degree from **Tsinghua University** in 2019, under the joint supervision of Prof. Guoqiang Bai and [Prof. Zhihua Wang](https://www.ime.tsinghua.edu.cn/info/1010/1746.htm) (IEEE Fellow). Since joining Huawei in 2019, I have collaborated closely with [Jie Hu](https://scholar.google.com/citations?user=o-3D3K4AAAAJ&hl=en), [Hanting Chen](https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en), and [Yunhe Wang](https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en).
 
-Driven by a passion for bridging cutting-edge algorithms with strict hardware constraints, I have pioneered multiple core technologies that empower intelligent imaging and generative models across tens of millions of flagship devices globally (Huawei Pura/Mate Series Phones, MatePad etc.) . I have published over 20 papers in top-tier AI venues (including multiple ICLR Spotlight, CVPR, ICML, ACL, ECCV, NeurIPS, and IEEE TIP articles) and hold more than 30 patents. 
+Driven by a passion for **transforming cutting-edge AI algorithms into efficient, real-world technologies**, I have led the development of several core technologies for intelligent imaging and generative AI, successfully deployed across **tens of millions of flagship devices worldwide**, including Huawei Pura and Mate series smartphones and MatePad tablets.
 
-> ### 🤝 Join Our Team / Hiring Interns
-> We are actively seeking self-motivated interns to work on next-generation multimodal generation systems. If you are passionate about defining the future of ubiquitous generative AI and publishing at top-tier venues, please feel free to drop me an email with your CV.
+I have authored **over 20 publications** in leading AI conferences and journals, including **ICLR (multiple Spotlights), CVPR, ICML, ACL, ECCV, NeurIPS, and IEEE TIP**, and hold **more than 30 patents**.
+
+> ### 🤝 Join Our Team | Research Internships
+>
+> We are actively seeking **talented and self-motivated research interns** to push the boundaries of **multimodal generation, reinforcement learning, and generative AI**. We offer opportunities to tackle cutting-edge research challenges, develop impactful technologies, and publish at top-tier AI conferences.
+>
+> **Interested candidates are welcome to email me with their CV.**
 
 <h1>🚀 News</h1>
 ===========                    
