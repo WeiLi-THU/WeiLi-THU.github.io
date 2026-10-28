@@ -46,20 +46,6 @@ Driven by a passion for bridging cutting-edge algorithms with strict hardware co
     <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
       <strong>Knowledge distillation with multi-granularity mixture of priors for image super-resolution</strong>
     </h3>
-    
-    <p style="margin: 0; font-size: 1.05em;">
-      Simiao Li, Yun Zhang, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Hanting Chen, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
-    </p>
-    
-    <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <sup>&dagger;</sup><em>Project Leader & Co-first author, ICLR 2025 (Spotlight)</em> &nbsp;
-      
-      <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/dcdaccb57420cb344b73da90f2281f11-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
-      
-      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-mipkd'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
-    </p>
-
-    <div id="bib-mipkd" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@inproceedings{li2025knowledge,
   title={Knowledge distillation with multi-granularity mixture of priors for image super-resolution},
   author={Li, Simiao and Zhang, Yun and Li, Wei and Chen, Hanting and Wang, Wenjia and Jing, Bingyi and Lin, Shaohui and Hu, Jie},
   booktitle={The Thirteenth International Conference on Learning Representations},
