@@ -152,7 +152,7 @@ I have authored **over 20 publications** in leading AI conferences and journals,
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader, Arxiv 2025</em> &nbsp;
-      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_RefSR-NeRF_Towards_High_Fidelity_and_Super_Resolution_View_Synthesis_CVPR_2023_paper.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <a href="https://arxiv.org/abs/2508.19154" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
       <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-rddm'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
     <div id="bib-rddm" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@article{chen2025rddm,
