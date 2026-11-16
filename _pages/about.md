@@ -26,7 +26,7 @@ I have authored **over 20 publications** in leading AI conferences and journals,
 **[2026.07]** Two paper accepted by **ACMMM 2026** ([DSPO](https://arxiv.org/pdf/2504.15176), [RadAR](https://arxiv.org/pdf/2512.24639)).  
 **[2026.06]** One paper accepted by **ECCV 2026** ([AlloSR](https://arxiv.org/pdf/2604.19238)).  
 **[2026.06]** Honored to serve as a **Virtual Session Chair** for the [LLM Efficiency] track at ACL 2026.                                   
-**[2026.05]** Three papers accepted by **ICML 2026** (ES-COT, CSD, [Extra-CoT](https://arxiv.org/pdf/2602.08324)).  
+**[2026.05]** Three papers accepted by **ICML 2026** ([ES-COT](https://openreview.net/pdf?id=ci0YXenfYe), [CSD](https://openreview.net/pdf?id=pJbip42zR6), [Extra-CoT](https://arxiv.org/pdf/2602.08324)).  
 **[2026.04]** One paper accepted by **ACL 2026** ([Dac-KL](https://arxiv.org/pdf/2407.10068)).     
 **[2025.11]** One paper accepted by **IEEE TIP** ([Hi-Mamba](https://arxiv.org/pdf/2410.10140?)).   
 **[2025.05]** One paper accepted by **IEEE TIP**. ([LIPT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11008483)).    
