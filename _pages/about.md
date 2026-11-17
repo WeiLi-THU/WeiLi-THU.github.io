@@ -44,6 +44,32 @@ I have authored **over 20 publications** in leading AI conferences and journals,
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 0 0 32%; margin-right: 20px;">
+    <img src="/images/ES-COT.png" alt="E-SCOT Teaser for Cross-Tokenizer Knowledge Distillation" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation</strong>
+    </h3>
+    <p style="margin: 0; font-size: 1.05em;">
+      Zhi-Ping Liu, Simiao Li, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Hanting Chen, Jie Hu, Hua-Lei Yin, Xinghao Chen
+    </p>
+    <p style="margin: 8px 0 0 0; font-size: 1.05em;">
+      <sup>&dagger;</sup><em>Project Leader, ICML 2026</em> &nbsp;
+      <a href="https://openreview.net/pdf?id=ci0YXenfYe" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-escot'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
+    </p>
+    <div id="bib-escot" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@inproceedings{liu2026entropy,
+  title={Entropy-aware Span-Constrained Optimal Transport for Robust Cross-Tokenizer Knowledge Distillation},
+  author={Liu, Zhi-Ping and Li, Simiao and Li, Wei and Chen, Hanting and Hu, Jie and Yin, Hua-Lei and Chen, Xinghao},
+  booktitle={Proceedings of the 43rd International Conference on Machine Learning},
+  year={2026}
+}</div>
+  </div>
+</div>
+
+<hr>
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 0 0 32%; margin-right: 20px;">
     <img src="/images/mipkd.png" alt="MiPKD Teaser for Image Super-Resolution" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
