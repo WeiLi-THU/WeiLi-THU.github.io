@@ -53,10 +53,12 @@ I have authored **over 20 publications** in leading AI conferences and journals,
       <strong>AlloSR<sup>2</sup>: Rectifying One-Step Super-Resolution to Stay Real via Allomorphic Generative Flows</strong>
     </h3>
     <p style="margin: 0; font-size: 1.05em;">
-      Zihan Wang, Xudong Huang, Junbo Qiao, <span style="font-weight: 800;">Wei Li</span>, Jie Hu, Xinghao Chen, Shaohui Lin
+      Zihan Wang, Xudong Huang, Junbo Qiao,
+      <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>,
+      Jie Hu, Xinghao Chen, Shaohui Lin
     </p>
     <div style="margin-top: 8px; font-size: 1.05em;">
-      <em>ECCV 2026</em> &nbsp;
+      <sup>&dagger;</sup><em>Corresponding Author, ECCV 2026</em> &nbsp;
       <a href="https://arxiv.org/pdf/2604.19238"
          style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
       <details style="display: inline;">
