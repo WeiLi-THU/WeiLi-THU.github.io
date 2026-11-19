@@ -44,6 +44,38 @@ I have authored **over 20 publications** in leading AI conferences and journals,
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 0 0 32%; margin-right: 20px;">
+    <img src="/images/AlloSR.png"
+         alt="AlloSR² teaser for one-step super-resolution"
+         style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  </div>
+  <div style="flex: 1; min-width: 0;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>AlloSR<sup>2</sup>: Rectifying One-Step Super-Resolution to Stay Real via Allomorphic Generative Flows</strong>
+    </h3>
+    <p style="margin: 0; font-size: 1.05em;">
+      Zihan Wang, Xudong Huang, Junbo Qiao, <span style="font-weight: 800;">Wei Li</span>, Jie Hu, Xinghao Chen, Shaohui Lin
+    </p>
+    <div style="margin-top: 8px; font-size: 1.05em;">
+      <em>ECCV 2026</em> &nbsp;
+      <a href="https://arxiv.org/pdf/2604.19238"
+         style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <details style="display: inline;">
+        <summary style="display: inline; cursor: pointer; color: #3B82F6; font-weight: bold;">[BibTeX]</summary>
+        <pre style="margin: 12px 0 0; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto;">@inproceedings{wang2026allosr,
+  title = {{AlloSR}$^2$: Rectifying One-Step Super-Resolution to Stay Real via Allomorphic Generative Flows},
+  author = {Wang, Zihan and Huang, Xudong and Qiao, Junbo and Li, Wei and Hu, Jie and Chen, Xinghao and Lin, Shaohui},
+  booktitle = {European Conference on Computer Vision (ECCV)},
+  year = {2026},
+  url = {https://arxiv.org/abs/2604.19238}
+}</pre>
+      </details>
+    </div>
+  </div>
+</div>
+
+<hr>
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 0 0 32%; margin-right: 20px;">
     <img src="/images/ES-COT.png" alt="E-SCOT Teaser for Cross-Tokenizer Knowledge Distillation" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1;">
