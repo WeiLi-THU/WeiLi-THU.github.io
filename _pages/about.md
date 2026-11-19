@@ -11,7 +11,7 @@ I am **Wei Li**, a Principal Research Scientist at the **Huawei Foundation Model
 
 I received my M.S. degree from **Tsinghua University** in 2019, under the joint supervision of Prof. Guoqiang Bai and [Prof. Zhihua Wang](https://www.ime.tsinghua.edu.cn/info/1010/1746.htm) (IEEE Fellow). Since joining Huawei in 2019, I have collaborated closely with [Jie Hu](https://scholar.google.com/citations?user=o-3D3K4AAAAJ&hl=en), [Hanting Chen](https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en), and [Yunhe Wang](https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en).
 
-Driven by a passion for **transforming cutting-edge AI algorithms into efficient, real-world technologies**, I have led the development of several core technologies for intelligent imaging and generative AI, successfully deployed across **tens of millions of flagship devices worldwide**, including Huawei Pura and Mate series smartphones and MatePad tablets.
+Driven by a passion for advancing **on-device intelligence**, I am dedicated to translating cutting-edge AI algorithms and foundation models into efficient, practical solutions for resource-constrained devices. I have led the development of **core algorithms for intelligent imaging and model efficiency technologies for generative AI foundation models**, with these innovations successfully deployed across **tens of millions of devices worldwide**, including Huawei Pura and Mate series smartphones and MatePad tablets.
 
 I have authored **over 20 publications** in leading AI conferences and journals, including **ICLR (multiple Spotlights), CVPR, ICML, ACL, ECCV, NeurIPS, and IEEE TIP**, and hold **more than 30 patents**.
 
