@@ -23,7 +23,7 @@ I have authored **over 20 publications** in leading AI conferences and journals,
 
 <h1>🚀 News</h1>
 ===========                    
-**[2026.07]** Two paper accepted by **ACMMM 2026** ([DSPO](https://arxiv.org/pdf/2504.15176), [RadAR](https://arxiv.org/pdf/2512.24639)).  
+**[2026.07]** Two paper accepted by **ACMMM 2026** ([DSPO](https://dl.acm.org/doi/epdf/10.1145/3767308.3835421), [RadAR](https://arxiv.org/pdf/2512.24639)).  
 **[2026.06]** One paper accepted by **ECCV 2026** ([AlloSR](https://arxiv.org/pdf/2604.19238)).  
 **[2026.06]** Honored to serve as a **Virtual Session Chair** for the [LLM Efficiency] track at ACL 2026.                                   
 **[2026.05]** Three papers accepted by **ICML 2026** ([ES-COT](https://openreview.net/pdf?id=ci0YXenfYe), [CSD](https://openreview.net/pdf?id=pJbip42zR6), [Extra-CoT](https://arxiv.org/pdf/2602.08324)).  
@@ -41,6 +41,37 @@ I have authored **over 20 publications** in leading AI conferences and journals,
 **[2021.11]** One paper accepted by **AAAI 2022** ([OoDHDR-codec](https://github.com/caolinfeng/OoDHDR-codec/blob/master/Readme.md)).     
 
 ## Selected Publications
+<hr>
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 0 0 32%; margin-right: 20px;">
+    <img src="/images/DSPO.png" alt="DSPO teaser for real-world image super-resolution" style="border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 4px; max-width: 100%; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  </div>
+  <div style="flex: 1; min-width: 0;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.15em; line-height: 1.3;">
+      <strong>DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution</strong>
+    </h3>
+    <p style="margin: 0; font-size: 1.05em;">
+      Miaomiao Cai<sup>*</sup>, Simiao Li<sup>*</sup>, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Xudong Huang, Hanting Chen, Jie Hu, Yunhe Wang<sup>&dagger;</sup>
+    </p>
+    <div style="margin-top: 8px; font-size: 1.05em;">
+      <em><sup>*</sup> Equal Contribution, <sup>&dagger;</sup> Corresponding Authors, ACM Multimedia 2026</em> &nbsp;
+      <a href="https://dl.acm.org/doi/epdf/10.1145/3767308.3835421" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <details style="display: inline;">
+        <summary style="display: inline; cursor: pointer; color: #3B82F6; font-weight: bold;">[BibTeX]</summary>
+        <pre style="margin: 12px 0 0; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-size: 0.85em; overflow-x: auto;">@inproceedings{cai2026dspo,
+  title = {&#123;DSPO}: Direct Semantic Preference Optimization for Real-World Image Super-Resolution},
+  author = {Cai, Miaomiao and Li, Simiao and Li, Wei and Huang, Xudong and Chen, Hanting and Hu, Jie and Wang, Yunhe},
+  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+  year = {2026},
+  pages = {95--104},
+  doi = {10.1145/3767308.3835421},
+  url = {https://doi.org/10.1145/3767308.3835421}
+}</pre>
+      </details>
+    </div>
+  </div>
+</div>
+
 <hr>
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
   <div style="flex: 0 0 32%; margin-right: 20px;">
