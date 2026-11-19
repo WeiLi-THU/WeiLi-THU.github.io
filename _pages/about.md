@@ -19,7 +19,7 @@ I have authored **over 20 publications** in leading AI conferences and journals,
 >
 > We are actively seeking **talented and self-motivated research interns** to push the boundaries of **multimodal generation, reinforcement learning, and generative AI**. We offer opportunities to tackle cutting-edge research challenges, develop impactful technologies, and publish at top-tier AI conferences.
 >
-> **Interested candidates are welcome to email me with their CV.**
+> **Interested candidates are welcome to email（l-w16@tsinghua.org.cn） me with their CV.**
 
 <h1>🚀 News</h1>
 ===========                    
