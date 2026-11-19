@@ -109,7 +109,8 @@ I have authored **over 20 publications** in leading AI conferences and journals,
       Simiao Li, Yun Zhang, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Hanting Chen, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <sup>&dagger;</sup><em>Project Leader &amp; Co-first author, ICLR 2025 (Spotlight)</em> &nbsp;
+      <!-- <sup>&dagger;</sup><em>Project Leader &amp; Co-first author, ICLR 2025 (Spotlight)</em> &nbsp; -->
+      <sup>&dagger;</sup><em>Project Leader &amp; Co-first author, <strong style="color: #DC2626;">ICLR 2025 (Spotlight)</strong></em> &nbsp;
       <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/dcdaccb57420cb344b73da90f2281f11-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
       <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-mipkd'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
@@ -215,7 +216,7 @@ I have authored **over 20 publications** in leading AI conferences and journals,
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
       <sup>&dagger;</sup><em>Project Leader, Arxiv 2025</em> &nbsp;
-      <a href="https://arxiv.org/abs/2508.19154" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
+      <a href="https://arxiv.org/pdf/2508.19154" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
       <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-rddm'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
     <div id="bib-rddm" style="display: none; margin-top: 12px; padding: 12px; background-color: rgba(128, 128, 128, 0.08); border: 1px solid rgba(128, 128, 128, 0.2); border-radius: 6px; font-family: monospace; font-size: 0.85em; overflow-x: auto; white-space: pre;">@article{chen2025rddm,
@@ -268,7 +269,8 @@ I have authored **over 20 publications** in leading AI conferences and journals,
       Xin Ding, Xiaoyu Liu, Zhijun Tu, Yun Zhang, <span style="font-weight: 800;">Wei Li</span><sup>&dagger;</sup>, Jie Hu, Hanting Chen, Yehui Tang, Zhiwei Xiong, Baoqun Yin, Yunhe Wang
     </p>
     <p style="margin: 8px 0 0 0; font-size: 1.05em;">
-      <sup>&dagger;</sup><em>ICLR 2025 (Spotlight)</em> &nbsp;
+      <!-- <sup>&dagger;</sup><em>ICLR 2025 (Spotlight)</em> &nbsp; -->
+      <sup>&dagger;</sup><em><strong style="color: #DC2626;">ICLR 2025 (Spotlight)</strong></em> &nbsp;
       <a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/15212bd2265c4a3ab0dbc1b1982c1b69-Paper-Conference.pdf" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[Paper]</a> &nbsp;
       <a href="javascript:void(0)" onclick="var b=document.getElementById('bib-cbq'); b.style.display=(b.style.display=='none')?'block':'none';" style="color: #3B82F6; text-decoration: none; font-weight: bold;">[BibTeX]</a>
     </p>
